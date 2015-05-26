@@ -1,2 +1,2 @@
 # x86reference
-X86 Opcode and Instruction Reference
+This repository is work-in-progress. For more see [http://ref.x86asm.net ref.x86asm.net]
